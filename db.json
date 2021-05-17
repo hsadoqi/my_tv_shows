@@ -1,0 +1,23 @@
+{
+  "comments": [
+    {
+      "id": 1,
+      "content": "some comment"
+    },
+    {
+      "content": "whoooooo",
+      "id": 2
+    },
+    {
+      "content": "this is awesome",
+      "id": 3
+    }
+  ],
+  "users": [
+      {
+      "id": 1, 
+      "name": "Bob", 
+      "password": "Hello"
+  }
+]
+}
